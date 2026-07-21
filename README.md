@@ -1,2 +1,2 @@
 # Research-Assignment---Foundations-of-Data-Analytics
-This was a research assignment to answe questions about the foundations of data analytics
+This was a research assignment to answer questions about the foundations of data analytics
